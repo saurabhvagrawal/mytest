@@ -4,7 +4,7 @@ lb01
 [webserver]
 app01
 app02
-
+app03
 
 [control]
 c01
