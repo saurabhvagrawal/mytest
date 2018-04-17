@@ -1,5 +1,5 @@
 [loadbalancer]
-lb01
+54.190.49.33
 
 [webserver]
 app01
